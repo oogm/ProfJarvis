@@ -18,7 +18,7 @@ public class Demo {
     public static void main(String[] args) {
         System.out.println("Queriying flashcards");
         try { //We're at a hackathon, try catch is fine
-            String json = getCards("16902");
+            String json = getCards(args[0]); //"16951"
             //System.out.println(json);
 
             System.out.println("Parsing JSON");
@@ -33,7 +33,7 @@ public class Demo {
                 JSONObject jo = new JSONObject();
                 jo.put("question", f.question);
                 jo.put("answer", f.answer);
-                jo.put("cathegory", "Computer Science");
+                jo.put("cathegory", "General Knowledge");
                 ja.put(jo);
             }
 
