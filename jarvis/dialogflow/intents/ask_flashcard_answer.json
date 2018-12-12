@@ -1,0 +1,39 @@
+{
+  "id": "6ee3972d-774b-4cf4-a6f5-72cb12e921fe",
+  "name": "ask_flashcard_answer",
+  "auto": true,
+  "contexts": [
+    "ask_flashcard-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "97ac4222-9aff-45cb-aca5-47acb22a6146",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "answer",
+          "value": "$answer",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544609889,
+  "fallbackIntent": false,
+  "events": []
+}

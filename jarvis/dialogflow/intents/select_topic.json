@@ -1,0 +1,36 @@
+{
+  "id": "749d3dd5-2da7-4cf2-88ef-096a3f1e3756",
+  "name": "select_topic",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6abeb12c-6cf2-42b7-8dc8-c017bc38945d",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "topic",
+          "value": "",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Welche Kategorie soll ich dich abfragen?"
+            }
+          ]
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544605997,
+  "fallbackIntent": false,
+  "events": []
+}

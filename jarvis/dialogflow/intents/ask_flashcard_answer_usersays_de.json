@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6efbc814-a3c6-4fa6-888b-ce4177e05290",
+    "data": [
+      {
+        "text": "Text",
+        "alias": "answer",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609761
+  },
+  {
+    "id": "33d97dc1-a1e9-4f69-b2ac-3920047abbe2",
+    "data": [
+      {
+        "text": "Nein",
+        "alias": "answer",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609761
+  },
+  {
+    "id": "b217589a-9a16-474a-8cf4-bec4e149ae18",
+    "data": [
+      {
+        "text": "Ja",
+        "alias": "answer",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609761
+  },
+  {
+    "id": "dfa6df01-9036-4ccb-a1ab-577f60965337",
+    "data": [
+      {
+        "text": "101023",
+        "alias": "answer",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609761
+  },
+  {
+    "id": "02a6067c-e728-4a77-bef2-ed153323f006",
+    "data": [
+      {
+        "text": "12",
+        "alias": "answer",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609761
+  },
+  {
+    "id": "a80a0c25-de5d-4cce-b79f-bcdc76f20b96",
+    "data": [
+      {
+        "text": "Irgend eine lange Antwort",
+        "alias": "answer",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609761
+  }
+]

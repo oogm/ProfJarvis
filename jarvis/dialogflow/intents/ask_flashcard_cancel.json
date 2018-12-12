@@ -1,0 +1,30 @@
+{
+  "id": "ad55b121-e4aa-46ee-b8aa-5879e948b902",
+  "name": "ask_flashcard_cancel",
+  "auto": true,
+  "contexts": [
+    "ask_flashcard-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544609899,
+  "fallbackIntent": false,
+  "events": []
+}

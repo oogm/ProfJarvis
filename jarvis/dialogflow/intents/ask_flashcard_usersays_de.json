@@ -1,0 +1,112 @@
+[
+  {
+    "id": "b8a67a01-8b81-44dc-829b-2f12f0b9e10a",
+    "data": [
+      {
+        "text": "Nochmal ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544600007
+  },
+  {
+    "id": "768e0385-c586-474b-844b-30f77e5752db",
+    "data": [
+      {
+        "text": "Weiter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544600007
+  },
+  {
+    "id": "ce9b9c69-febe-4f1c-8352-18336e00d77c",
+    "data": [
+      {
+        "text": "Nächste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544600007
+  },
+  {
+    "id": "85041d1e-6bff-4ab8-a421-b3d0b657e67b",
+    "data": [
+      {
+        "text": "Weitere Karteikarte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544600007
+  },
+  {
+    "id": "8821c5bb-3c89-41fb-9ab5-3d61239f6ef8",
+    "data": [
+      {
+        "text": "Frage mich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Karte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1544600007
+  },
+  {
+    "id": "faeb2f09-79e7-49ce-96cf-375b21a9d43f",
+    "data": [
+      {
+        "text": "Abfrage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544600007
+  },
+  {
+    "id": "a4e39f3f-e324-4032-8d4d-d464e904b750",
+    "data": [
+      {
+        "text": "Karteikarte fragen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544600007
+  },
+  {
+    "id": "f7b745b0-63af-4630-99ec-90dcccdde7c0",
+    "data": [
+      {
+        "text": "Nächste Karteikarte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544600007
+  }
+]

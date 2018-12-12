@@ -1,0 +1,98 @@
+[
+  {
+    "id": "96d62f91-b7c5-474f-946c-31a05ad3cea2",
+    "data": [
+      {
+        "text": "zeig die antwort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1544609850
+  },
+  {
+    "id": "111d6a5f-4d39-4f18-bce6-eeec903836c0",
+    "data": [
+      {
+        "text": "keine lust mehr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609850
+  },
+  {
+    "id": "3ea5d877-f810-43d6-82e3-067b593aea31",
+    "data": [
+      {
+        "text": "mir egal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609850
+  },
+  {
+    "id": "71e07965-7a42-4e07-aa62-4ddf83f48b75",
+    "data": [
+      {
+        "text": "weiß nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609850
+  },
+  {
+    "id": "00b07949-db3a-4caa-a95d-1ca734ef8fcc",
+    "data": [
+      {
+        "text": "weiß ich nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609850
+  },
+  {
+    "id": "3f8f8b2e-667a-4cc5-8aea-7f5f24cb0459",
+    "data": [
+      {
+        "text": "antwort zeigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609850
+  },
+  {
+    "id": "9a5d9ec6-d4ed-487b-b36f-6dc95a8263fb",
+    "data": [
+      {
+        "text": "keine ahnung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609850
+  },
+  {
+    "id": "70642f6d-eb93-429b-a96c-a14992beabe0",
+    "data": [
+      {
+        "text": "antwort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544609850
+  }
+]

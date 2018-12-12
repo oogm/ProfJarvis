@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6d0b9480-55e8-412a-a195-374c8af6158d",
+    "data": [
+      {
+        "text": "Karteikarten wählen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544604877
+  },
+  {
+    "id": "3ed3eeae-898d-4c9a-90bb-13de88e94b5e",
+    "data": [
+      {
+        "text": "Stapel aussuchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544604877
+  },
+  {
+    "id": "fb9a10f5-2d09-4a65-98f4-1f8e1e51315e",
+    "data": [
+      {
+        "text": "Fach wählen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544604877
+  },
+  {
+    "id": "7e54041f-9f94-4892-a545-021a975af27a",
+    "data": [
+      {
+        "text": "Thema wechseln",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544604877
+  },
+  {
+    "id": "bb8c3e45-18cd-48d2-80e5-03ce28039d37",
+    "data": [
+      {
+        "text": "Karteikarten wechseln",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544604877
+  },
+  {
+    "id": "e421d08c-9925-415e-a404-7b1164893fda",
+    "data": [
+      {
+        "text": "Andere Karteikarten abfragen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544604877
+  },
+  {
+    "id": "545b402a-7d7e-43ff-b80c-d141c887edf6",
+    "data": [
+      {
+        "text": "Kategorie wählen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544604877
+  }
+]
