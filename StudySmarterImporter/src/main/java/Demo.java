@@ -12,8 +12,8 @@ import java.util.ArrayList;
 
 public class Demo {
     private static final String USER_AGENT = "Mozilla/5.0";
-    private static final String USER_ID = "10351";
-    private static final String USER_AUTH = "Token 4c490a98973110dc5506b90151dc966eda6afbd8";
+    private static final String USER_ID = "ADD YOUR USER ID";
+    private static final String USER_AUTH = "ADD YOUR TOKEN";
 
     public static void main(String[] args) {
         System.out.println("Queriying flashcards");
@@ -47,7 +47,7 @@ public class Demo {
 
             //Upload to server:
             System.out.println("Uploading to server");
-            String command = "scp "+filename+" loehner@lxhalle.in.tum.de:~/home_page/html-data/";
+            String command = "scp "+filename+" ADD YOUR SERVER URL";
             //Process p = Runtime.getRuntime().exec("make4ht -u latexin.tex");
             //int exitVal = p.waitFor();
             System.out.println("Upload cmd:");
@@ -55,7 +55,7 @@ public class Demo {
 
             //Final link
             System.out.println("Final link:");
-            System.out.println("http://home.in.tum.de/~loehner/"+filename);
+            System.out.println("ADD YOUR SERVER URL"+filename);
 
 
         } catch (Exception e) {
